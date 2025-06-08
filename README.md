@@ -105,6 +105,10 @@ background-removal-app/
 └── README.md            # 项目说明文档
 ```
 
+## 备注
+
+后端需要安装venv最新版，前端安装node_modules依赖
+
 ## 许可证
 
 [MIT](LICENSE)
